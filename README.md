@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://koech-code.github.io/Restaurants-landing_page/)
 
 
 ## Getting Started
