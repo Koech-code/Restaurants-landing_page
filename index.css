@@ -1,0 +1,37 @@
+.logo{
+    height: auto;
+    text-align: center;
+    padding-bottom: 3px;
+}
+.backgroundimg{
+    background-image: url("assets/backgrounds/landing.jpg");
+    background-repeat: no-repeat;
+}
+#para{
+    font-size: 40px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.nav div{
+    height: 4px;
+    background-color: black;
+    margin:5px 0;
+    border-radius: 25px;
+}
+.nav{
+    width: 50px;
+    display: block;
+    margin: 1em 0 0 1em;
+}
+.one{
+    width: 50px;
+}
+.two{
+    width: 50px;
+}
+.three{
+    width: 50px;
+}
+.menu{
+    padding: 50px 70px;
+}
