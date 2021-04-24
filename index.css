@@ -1,37 +1,71 @@
-.logo{
-    height: auto;
-    text-align: center;
-    padding-bottom: 3px;
+body{
+    padding: 0;
+    margin: 0;
 }
-.backgroundimg{
+.section1 .header{
     background-image: url("assets/backgrounds/landing.jpg");
     background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px;
+    background-size: cover;
+    height: 90vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-#para{
-    font-size: 40px;
-    padding-bottom: 100px;
+.header .logo{
+    font-size: 2em;
+    color: white;
+} 
+.section1 .nav .one{
+    width: 25px;
+    border-radius: 8px;
+}
+.section1 .row{
+    display: flex;
+    flex-direction: row;
+}
+.section1 .row .time,.breakfast,.lunch,.dinner{
+    width: 25%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.section1 .row .time{
+    display: grid;
+    grid-auto-rows: 1fr;
+    background-color: yellow;
     text-align: center;
 }
-.nav div{
-    height: 4px;
-    background-color: black;
-    margin:5px 0;
-    border-radius: 25px;
+.section1 .row .time .happy{
+    background-color: white;   
 }
-.nav{
-    width: 50px;
-    display: block;
-    margin: 1em 0 0 1em;
+
+.section1 .row .time .party{
+    display: flex;
+    align-items: center;
+    background-color: #F15A29;
 }
-.one{
-    width: 50px;
+.section1 .row .breakfast{
+    background-image: url("assets/foodtop/breakfast.jpg");
+    background-position: center;
+    background-size: cover;
 }
-.two{
-    width: 50px;
+.section1 .row .lunch{
+    background-image: url("assets/foodtop/lunch.jpg");
+    opacity: .3;
+    background-position: center;
+    background-size: cover;
+    
 }
-.three{
-    width: 50px;
+.section1 .row .dinner{
+    background-image: url("assets/foodtop/dinner.jpg");
+    background-position: center;
+    background-size: cover;
 }
-.menu{
-    padding: 50px 70px;
-}
+
+
+
+

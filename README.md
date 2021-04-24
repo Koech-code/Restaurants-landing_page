@@ -40,7 +40,7 @@ $
 👤 **Author**
 
 - GitHub: [@Koech-code]()
-- e-mail [@nixon.koech@student.moringaschool.com]()
+- e-mail [@nixon.koech@student.moringaschool.com]
 
 
 
