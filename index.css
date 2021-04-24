@@ -65,10 +65,13 @@ body{
 }
 .section2 .imgs{
     display: grid;
-    padding: 7% 17%;
-    
+    padding: 7% 17%; 
 }
-
-
-
-
+.view{
+    color: red;
+    border: 1px solid orange;
+    padding; 50%;
+}
+.section3 .imgs1{
+    display: block;
+}
