@@ -62,16 +62,48 @@ body{
     background-image: url("assets/foodtop/dinner.jpg");
     background-position: center;
     background-size: cover;
+    background-position: center;
 }
 .section2 .imgs{
     display: grid;
     padding: 7% 17%; 
 }
 .view{
-    color: red;
-    border: 1px solid orange;
-    padding; 50%;
+    color: #F15A29;
+    border: 1px solid #F15A29;
+    margin-bottom: 2px;
+    margin-right: 80%;
+    text-align: center;
+}
+.view .arrow{
+    font-size: 50px;
 }
 .section3 .imgs1{
     display: block;
+}
+.section4{
+    background-image: url("assets/backgrounds/foodsBg.jpg");
+    background-size: cover;
+}
+.row .foods{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.row .foods .f1{
+    color:  #F15A29;
+    font-weight: 500;
+    /* display: flex;
+    align-items: left; */
+}
+.row{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+.column{
+    margin: 10px;
+    padding: 10px;
 }
