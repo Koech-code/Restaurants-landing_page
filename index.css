@@ -108,9 +108,26 @@ body{
     padding: 10px;
 }
 .section5{
-    background: green;
     margin: 200px;
+    /* box-shadow: red; */
+    /* background-color: green; */
 }
 .section5 .customers{
     color:   #F15A29;
 }
+.aboutmenu{
+    display: flex;
+    justify-content: center;
+}
+.section6 .footerp{
+    display: flex;
+    justify-content: center;
+    background-image: url("assets/backgrounds/subscribe.jpg");
+    background-position: cover;
+    background-size: cover;
+    height: 50vh;
+}
+/* .secction6 .footerp{
+    background-image: url("assets/backgrounds/subscribe.jpg");
+    background-position: cover;
+} */
