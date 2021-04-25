@@ -28,7 +28,7 @@ A computer with a working and up to date web browser.
 
 - Clone the repository to your folder of choice using Git (or just download all the files)
 ```
-$ 
+$ git clone https://koech-code.github.io/Restaurants-landing_page/
 
 ```
 - Open the index.html file (in the root folder) and the website should show up.
@@ -37,7 +37,7 @@ $
 
 👤 **Author**
 
-- GitHub: [@Koech-code]
+- GitHub: [@Koech-code](https://koech-code.github.io/Restaurants-landing_page/)
 - e-mail [@nixon.koech@student.moringaschool.com]
 
 
