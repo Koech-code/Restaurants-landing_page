@@ -53,7 +53,6 @@ Feel free to check the [issues page](ISSUE_TEMPLATE/feature_request.md).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
 - I would like to thank my techical mentors and fellow colleagues for the support they are giving me in this journey of coding.

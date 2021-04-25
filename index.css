@@ -47,7 +47,6 @@ body{
     display: flex;
     align-items: center;
     background-color: #F15A29;
-    margin: 0;
 }
 .section1 .row .breakfast{
     background-image: url("assets/foodtop/breakfast.jpg");
@@ -67,11 +66,21 @@ body{
     background-size: cover;
     background-position: center;
 }
-.section2 .imgs{
+/* .section2 .imgs{
     display: grid;
+    align-items: center;
     padding: 7% 17%; 
-}
-.view{
+    background-color: green;
+} */
+/* .pr{
+    flex-direction: row;
+} */
+/* .section2 .fastfood {
+    display: flex;
+    justify-content: space-between;
+    padding: 20%;
+} */
+/* .view{
     color: #F15A29;
     border: 1px solid #F15A29;
     margin-bottom: 2px;
@@ -80,7 +89,65 @@ body{
 }
 .view .arrow{
     font-size: 50px;
+} */
+.fastfood{
+    width: auto;
+    height: auto;
+    padding:38px;
+    background-color: white;
 }
+.imgs{
+    display: flex;
+    background-color: white;
+}
+.img1{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 40px;
+    padding-right: 20px;
+}
+.img2{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 15px solid white;
+    border-radius: 2px;
+    box-shadow: 0 0 6px grey;
+    overflow: hidden;
+}
+.pr{
+    height:auto;
+    width: 50%;
+    padding:30px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.img001{
+    display: flex;
+    background-color: white;
+}
+.drinks{
+    float: right;
+    padding: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    text-align: right;
+    width: 48%;
+}
+.lady{
+    float: right;
+    padding: 20px;
+    box-sizing:border-box;
+    width: 48%;
+}
+.red-drinks{
+    display: flex;
+    flex-direction: row;
+    border: 20px solid white;
+    width: 100%;
+    overflow: hidden;
+} */
+/* }
 .section3 .imgs1{
     display: block;
 }
@@ -98,8 +165,6 @@ body{
 .row .foods .f1{
     color:  #F15A29;
     font-weight: 500;
-    /* display: flex;
-    align-items: left; */
 }
 .row{
     display: flex;
@@ -109,14 +174,17 @@ body{
 .column{
     margin: 10px;
     padding: 10px;
-}
+} */
 .section5{
     margin: 200px;
-    /* box-shadow: red; */
-    /* background-color: green; */
+    background-color: green;
 }
 .section5 .customers{
     color:   #F15A29;
+}
+.section5 .aboutcustomers{
+    display: flex;
+    justify-content: center;
 }
 .aboutmenu{
     color: #F15A29;
