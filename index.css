@@ -66,21 +66,21 @@ body{
     background-size: cover;
     background-position: center;
 }
-/* .section2 .imgs{
+ .section2 .imgs{
     display: grid;
     align-items: center;
     padding: 7% 17%; 
     background-color: green;
-} */
-/* .pr{
+} 
+ .pr{
     flex-direction: row;
-} */
-/* .section2 .fastfood {
+} 
+ .section2 .fastfood {
     display: flex;
     justify-content: space-between;
     padding: 20%;
-} */
-/* .view{
+} 
+ .view{
     color: #F15A29;
     border: 1px solid #F15A29;
     margin-bottom: 2px;
@@ -89,8 +89,8 @@ body{
 }
 .view .arrow{
     font-size: 50px;
-} */
-.fastfood{
+} 
+ .fastfood{
     width: auto;
     height: auto;
     padding:38px;
@@ -175,6 +175,28 @@ body{
     margin: 10px;
     padding: 10px;
 } */
+.row1{
+   background-image: url("assets/backgrounds/foodsBg.jpg");
+   background-size: 100%;
+   text-align: center;
+   padding: 70px;
+}
+.foods{
+    height: auto;
+    padding: 28px;
+    background-color: white;
+    box-sizing: border-box;
+    padding-bottom: 0px;
+}
+.column1{
+    color: #F15A29;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 17px;
+    align-items: center;
+    justify-content: center;
+}
 .section5{
     margin: 200px;
     background-color: green;
