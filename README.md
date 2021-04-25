@@ -4,8 +4,6 @@
 
 > This is a landing webite for Anita's restaurant.
 
-![screenshot](images/screenshoot.png)
-
 
 ## Built With
 
@@ -39,7 +37,7 @@ $
 
 👤 **Author**
 
-- GitHub: [@Koech-code]()
+- GitHub: [@Koech-code]
 - e-mail [@nixon.koech@student.moringaschool.com]
 
 
@@ -58,7 +56,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Appreciation to  Moringa school for giving me this opportunity to learn :)
+- I would like to thank my techical mentors and fellow colleagues for the support they are giving me in this journey of coding.
 
 ## 📝 License
 

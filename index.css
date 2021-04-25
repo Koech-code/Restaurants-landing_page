@@ -116,8 +116,7 @@ body{
     color:   #F15A29;
 }
 .aboutmenu{
-    display: flex;
-    justify-content: center;
+    color: #F15A29;
 }
 .section6 .footerp{
     display: flex;
@@ -125,7 +124,12 @@ body{
     background-image: url("assets/backgrounds/subscribe.jpg");
     background-position: cover;
     background-size: cover;
-    height: 50vh;
+    height: 25vh;
+}
+.footerp{
+    color: white;
+    padding-top: 5%;
+    font-size: 40px;
 }
 /* .secction6 .footerp{
     background-image: url("assets/backgrounds/subscribe.jpg");
