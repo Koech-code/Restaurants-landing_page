@@ -107,3 +107,10 @@ body{
     margin: 10px;
     padding: 10px;
 }
+.section5{
+    background: green;
+    margin: 200px;
+}
+.section5 .customers{
+    color:   #F15A29;
+}
