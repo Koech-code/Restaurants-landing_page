@@ -41,13 +41,13 @@ body{
     display: block;
     margin: 2em 0 0 2em;
 }
-.one{
+.section1 .one{
     width: 45px;
 }
-.two{
+.section1 .two{
     width: 45px;
 }
-.three{
+.section1 .three{
     width: 45px;
 }
 .section1 .row .time{
@@ -141,10 +141,11 @@ body{
     margin-left: 10px;
     font-size: 18px;
 }
-.img001{
+ .img001{
     display: flex;
     background-color: white;
-}
+} 
+
 .drinks{
     float: right;
     padding: 20px;
