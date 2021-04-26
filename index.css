@@ -29,7 +29,26 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;  
-    
+}
+.section1 .nav div{
+    height: 4px;
+    background-color: white;
+    border-radius: 26px;
+    margin: 6px 0;
+}
+.section1 .nav{
+    width: 30px;
+    display: block;
+    margin: 2em 0 0 2em;
+}
+.one{
+    width: 45px;
+}
+.two{
+    width: 45px;
+}
+.three{
+    width: 45px;
 }
 .section1 .row .time{
     display: grid;
