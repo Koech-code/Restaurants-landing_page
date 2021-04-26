@@ -38,7 +38,7 @@ $ git clone https://koech-code.github.io/Restaurants-landing_page/
 👤 **Author**
 
 - GitHub: [@Koech-Code](https://koech-code.github.io/Restaurants-landing_page/)
-- e-mail [@nixon.koech@student.moringaschool.com]
+- e-mail [@nixon.koech@student.moringaschool.com](https://koech-code.github.io/Restaurants-landing_page/)
 
 
 
