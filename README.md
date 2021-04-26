@@ -48,7 +48,7 @@ $ git clone https://koech-code.github.io/Restaurants-landing_page/
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](ISSUE_TEMPLATE/feature_request.md).
+Feel free to check the [issues page](https://github.com/Koech-code/Restaurants-landing_page.git).
 
 ## Show your support
 
